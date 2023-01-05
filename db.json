@@ -10,13 +10,31 @@
       "Price": 500000
     },
     {
-      "id": 2,
-      "brand": "Tata",
+      "id": 1,
+      "brand": "Maruti",
+      "year": 2020,
       "type": "AMT",
-      "year": 2017,
-      "kms": 8000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 800000
+      "kms": 15000,
+      "Description": "Maruti Alto wil all papers",
+      "Price": 100000
+    },
+    {
+      "id": 1,
+      "brand": "Tata",
+      "year": 2019,
+      "type": "Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+      "id": 2,
+      "brand": "Mahindra",
+      "type": "AMT",
+      "year": 2021,
+      "kms": 30000,
+      "Description": "Mahindra thar with all docs",
+      "Price": 1100000
     }
   ],
   "wishlisted_cars": [
@@ -28,6 +46,15 @@
       "kms": 10000,
       "Description": "Tata Altroz with all original documents",
       "Price": 500000
+    },
+    {
+      "id": 2,
+      "brand": "Mahindra",
+      "type": "AMT",
+      "year": 2021,
+      "kms": 30000,
+      "Description": "Mahindra thar with all docs",
+      "Price": 1100000
     }
   ]
 }
